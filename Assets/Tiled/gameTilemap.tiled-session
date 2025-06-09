@@ -3,11 +3,22 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "TinyDungeon_Tilesheet.tsx",
+    "activeFile": "MyTile.tmx",
     "expandedProjectPaths": [
         "."
     ],
     "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "AllinOne.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -6488,
+                "y": -546
+            }
+        },
         "C:/Users/R/Documents/GitHub/comp1151prac-tilemapgame-Rj-pretending-afk/kenney_tiny-dungeon/Tiled/sampleMap.tmx": {
             "scale": 3,
             "selectedLayer": 0,
@@ -21,16 +32,19 @@
             "scaleInEditor": 1
         },
         "MyTile.tmx": {
-            "scale": 1.5,
+            "scale": 2,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": -69.33333333333326,
-                "y": -7
+                "x": 0,
+                "y": 99.75
             }
+        },
+        "MyTile.tmx#tilemap_packed": {
+            "scaleInEditor": 1
         },
         "TinyDungeon_Tilesheet.tsx": {
             "dynamicWrapping": false,
-            "scaleInDock": 3,
+            "scaleInDock": 2,
             "scaleInEditor": 4
         },
         "TinyDungeon_Tilesheet1.tsx": {
@@ -64,9 +78,11 @@
         "MyTile.tmx"
     ],
     "project": "gameTilemap.tiled-project",
+    "property.type": "string",
     "recentFiles": [
-        "MyTile.tmx",
         "TinyDungeon_Tilesheet.tsx",
+        "MyTile.tmx",
+        "AllinOne.tmx",
         "C:/Users/R/Documents/GitHub/comp1151prac-tilemapgame-Rj-pretending-afk/kenney_tiny-dungeon/Tiled/sampleMap.tmx",
         "tilemap_packed.tsx",
         "sampleMap.tmx",
